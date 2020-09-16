@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connectionStrings>
+  <add name="ZooDatabase" connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ConcurrencyDemo_ZooDB;Integrated Security=true"/>
+</connectionStrings>

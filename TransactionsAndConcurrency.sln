@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooModel", "ZooModel\ZooModel.csproj", "{5AC70710-6D91-43D9-BC50-C84BDADAAC16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbUp", "DbUp\DbUp.csproj", "{43F1CF2C-C000-4DC5-971E-25BA39E476B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConcurrencyDemo", "DbConcurrencyDemo\DbConcurrencyDemo.csproj", "{D95909BD-8778-4CCF-88CC-E9F705FFAF27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5AC70710-6D91-43D9-BC50-C84BDADAAC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AC70710-6D91-43D9-BC50-C84BDADAAC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AC70710-6D91-43D9-BC50-C84BDADAAC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F1CF2C-C000-4DC5-971E-25BA39E476B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F1CF2C-C000-4DC5-971E-25BA39E476B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F1CF2C-C000-4DC5-971E-25BA39E476B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F1CF2C-C000-4DC5-971E-25BA39E476B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95909BD-8778-4CCF-88CC-E9F705FFAF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95909BD-8778-4CCF-88CC-E9F705FFAF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95909BD-8778-4CCF-88CC-E9F705FFAF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95909BD-8778-4CCF-88CC-E9F705FFAF27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
